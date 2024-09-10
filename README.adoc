@@ -25,10 +25,9 @@ I enjoy playing with golang and TUIs, so, why not? ;)
 
 === Screenshot
 
-.Really? Okay
+Really? Okay
 
-* image::shot/shot-01.png[]
-* image::shot/shot-02.png[]
+image::shot/shot.png[]
 
 == Compile
 
@@ -41,7 +40,7 @@ go mod tidy
 ----
 
 .Compile
-[source,bash]
+[source,console]
 ----
 go build .
 ----
