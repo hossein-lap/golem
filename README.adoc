@@ -27,7 +27,9 @@ I enjoy playing with golang and TUIs, so, why not? ;)
 
 .Really? Okay
 
-image::shot/test.png[]
+image::shot/shot-01.png[]
+
+image::shot/shot-02.png[]
 
 == Compile
 
